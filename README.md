@@ -1,4 +1,4 @@
-# Number - Guessing:
+# Number - Guessing Game:
 
 This small game is developed using Tkinter. 
 Here user need to guess the number in the computer's memory.
